@@ -1,4 +1,4 @@
-<h1> 👋 Hi, I’m @davijonas <h1>
+<h1> 👋 Hi, I’m @davijonas </h1>
 - 👀 I’m interested in development of systems for commerce and web with emphasis on security.
 - 🌱 I’m currently learning, javascript, python, node, docker, php, flutter, react and invasion technologies for the protection of web systems.
 - 📫 How to reach me <a href="https://www.instagram.com/david.jonas/">Instagram</a>
